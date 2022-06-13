@@ -29,7 +29,7 @@ However, when the complexity of the program increases, this data structure might
 
 - Linked List: In a linked list, data elements are connected through a series of nodes, with each node containing the data item and a memory address linking to the next node.
 
-Non-Linear DS: Unlike linear data structures, elements in non-linear are not stored sequentially. Instead they are arranged in a hierarchical manner where one element is connected to one or more elements, like a family tree or a cooperate ladder. Non-linear DS are further divided into graphs and tree based data structures.
+<h2>Non-Linear DS</h2> Unlike linear data structures, elements in non-linear are not stored sequentially. Instead they are arranged in a hierarchical manner where one element is connected to one or more elements, like a family tree or a cooperate ladder. Non-linear DS are further divided into graphs and tree based data structures.
 
 - Graph DS:
   In graph data structure, each node is called vertex and each vertex is connected to other vertices through edges.
