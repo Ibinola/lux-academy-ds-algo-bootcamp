@@ -55,4 +55,5 @@ Knowledge of data structures provides a way of organizing, maintaing and storing
 Other really good resources you should check out:
 
 - [Beginner Data Structures Explained Like You Are 5](https://www.youtube.com/watch?v=o6VuST08S60)
-- [Computer Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020) -[Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=0s)
+- [Computer Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
+- [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=0s)
