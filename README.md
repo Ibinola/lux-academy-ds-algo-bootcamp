@@ -31,6 +31,8 @@ However, when the complexity of the program increases, this data structure might
 
 Non-Linear DS: Unlike linear data structures, elements in non-linear are not stored sequentially. Instead they are arranged in a hierarchical manner where one element is connected to one or more elements, like a family tree or a cooperate ladder. Non-linear DS are further divided into graphs and tree based data structures.
 
+<h3>Examples of Non-Linear DS</h3>
+
 - Graph DS:
   In graph data structure, each node is called vertex and each vertex is connected to other vertices through edges.
 
